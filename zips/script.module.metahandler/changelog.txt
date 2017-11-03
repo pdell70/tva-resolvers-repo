@@ -1,8 +1,3 @@
-[B]v3.0.0(Friday, 28 July 2017):[/B]
-  - TMDB Api Key in settings - RECOMMENDED - all addon devs use their own keys
-  - Optional Keys in Settings
-  - Fixed TV Show Search Behaviour
-  
 [B]Version 2.9.0[/B]
 - Fix cache work path bug
 - Change log msgs to minimize what is printed out when not in debug mode
